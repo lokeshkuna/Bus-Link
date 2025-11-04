@@ -1,5 +1,7 @@
 ## Bus Navigation User Reviews
 
+🕓 Originally developed by our team in early 2024 and re-uploaded here for portfolio purpose.
+
 A Node.js/Express web app for bus information, navigation, and user reviews. It uses EJS for server‑rendered views, MongoDB via Mongoose for persistence, and session/cookie utilities for auth flows with admin and moderator roles.
 
 ### Features

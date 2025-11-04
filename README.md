@@ -77,7 +77,5 @@ A Node.js/Express web app for bus information, navigation, and user reviews. It 
 - Do not commit your `.env` or any credentials.
 - The code contains a fallback MongoDB URI; override it with `mongo_url` in `.env`.
 
-### License
-ISC
 
 
